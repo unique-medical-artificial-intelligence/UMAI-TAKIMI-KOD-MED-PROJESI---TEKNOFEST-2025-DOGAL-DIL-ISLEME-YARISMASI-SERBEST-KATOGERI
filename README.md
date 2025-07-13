@@ -1,7 +1,7 @@
 
 # 🏛️ KOD-MED
 
-![UMAI TAKIMI LOGOSU](https://github.com/unique-medical-artificial-intelligence/UMAI-TAKIMI-KOD-MED-PROJESI---TEKNOFEST-2025-DOGAL-DIL-ISLEME-YARISMASI-SERBEST-KATOGERI/blob/main/logo.png)
+<img src="https://github.com/unique-medical-artificial-intelligence/UMAI-TAKIMI-KOD-MED-PROJESI---TEKNOFEST-2025-DOGAL-DIL-ISLEME-YARISMASI-SERBEST-KATOGERI/blob/main/logo.png" width="340">
 
 **Bu çalışma, Teknofest 2025 Türkçe Doğal Dil İşleme yarışması "Serbest" kategori yarışması için geliştirilmiştir.**
 
@@ -26,7 +26,7 @@ KOD-MED, sağlık sektöründeki teşhis ve raporlama süreçlerinin verimini ar
 
 ## 🪢Gereklilikler
 
-Projenin çalıştırılması için gerekli tüm bağlılıkların listesini [requirements.txt]([https://www.youtube.com/shorts/_0vlSars08g](https://github.com/unique-medical-artificial-intelligence/UMAI-TAKIMI-KOD-MED-PROJESI---TEKNOFEST-2025-DOGAL-DIL-ISLEME-YARISMASI-SERBEST-KATOGERI/blob/main/requirements.txt)) sayfasında bulabilirsiniz. Veri Seti bağlantısı aşağıda olucaktır.
+Projenin çalıştırılması için gerekli tüm bağlılıkların listesini [requirements.txt](https://github.com/unique-medical-artificial-intelligence/UMAI-TAKIMI-KOD-MED-PROJESI---TEKNOFEST-2025-DOGAL-DIL-ISLEME-YARISMASI-SERBEST-KATOGERI/blob/main/requirements.txt) sayfasında bulabilirsiniz. Veri Seti bağlantısı aşağıda olucaktır.
 Ayrıca çalışmalarımızın hepsi Google Colab ortamında yapılmıştır. 
 Gerekli kütüphaneleri kurmak için aşağıdaki kodu çalıştırabilirsiniz.
 
@@ -53,8 +53,8 @@ Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ula
 
 | Dosya Adı      | Açıklaması         |
 |----------:     |------------        |
-|requiements     |  ne kazım          |
-| sunum.pptx     |TAkım sunumu        |
+|requirements.txt    | Kullandığımız ve gerekli kütüphaneler ve veri seti bağlantısını içeren dosya          |
+| sunum.pptx     |Takım sunumumuz      |
 |KODMEDv4        |en son surum        |
 
 
@@ -76,7 +76,7 @@ Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ula
 
 ## Lisans
 
-Bu proje Apache lisansı altında lisanslanmıştır. Daha fazla bilgi için [Lisans](https://github.com/unique-medical-artificial-intelligence/UMAI-tak-m----2025-Teknofest-Do-al-Dil---leme-Serbest-Katogeri-/blob/main/LICENSE) sayfasına bakın.
+Bu proje Apache lisansı altında lisanslanmıştır. Daha fazla bilgi için [Lisans](https://github.com/unique-medical-artificial-intelligence/UMAI-TAKIMI-KOD-MED-PROJESI---TEKNOFEST-2025-DOGAL-DIL-ISLEME-YARISMASI-SERBEST-KATOGERI/blob/main/LICENSE) sayfasına bakınız.
 
 ## Kaynaklar
 
