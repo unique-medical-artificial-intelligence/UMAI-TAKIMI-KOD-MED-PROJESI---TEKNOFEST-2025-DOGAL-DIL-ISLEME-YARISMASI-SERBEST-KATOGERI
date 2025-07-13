@@ -1,0 +1,22 @@
+Kullandığımız kütüphaneler aşağıdadır;
+
+-Veri Analizi ve Ön işleme
+pandas
+numpy
+
+- Derin Öğrenme ve NLP
+torch
+transformers[torch]
+scikit-learn
+sentence-transformers
+
+- Web Scraping ve Veri Toplama
+requests
+beautifulsoup4
+
+- Veri Görselleştirme
+matplotlib
+seaborn
+
+- Hızlı Demo Arayüzü için
+streamlit
