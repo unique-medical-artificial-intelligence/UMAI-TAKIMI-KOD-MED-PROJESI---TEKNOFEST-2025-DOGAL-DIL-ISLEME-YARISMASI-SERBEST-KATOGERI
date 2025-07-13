@@ -31,7 +31,7 @@ Ayrıca çalışmalarımızın hepsi Google Colab ortamında yapılmıştır.
 Gerekli kütüphaneleri kurmak için aşağıdaki kodu çalıştırabilirsiniz.
 
 ```bash
-  import pandas
+import pandas
 import numpy
 import scikit-learn
 import torch
