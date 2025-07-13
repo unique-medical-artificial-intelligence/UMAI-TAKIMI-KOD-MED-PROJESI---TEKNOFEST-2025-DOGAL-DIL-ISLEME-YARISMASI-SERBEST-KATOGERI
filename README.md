@@ -53,16 +53,15 @@ Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ula
 
 | Dosya Adı      | Açıklaması         |
 |----------:     |------------        |
-|requirements.txt    | Kullandığımız ve gerekli kütüphaneler ve veri seti bağlantısını içeren dosya          |
-| sunum.pptx     |Takım sunumumuz      |
-|KODMEDv4        |en son surum        |
+|requirements.txt        | Kullandığımız ve gerekli kütüphaneler ve veri seti bağlantısını içeren dosya          |
+| sunum.pdf                 |Takım sunumumuz      |
+|KODMEDv4                    |en son surum        |
 
 
 
 ## 🚀 Sürümler ve Yenilikler
-2.versiyonda bunu ekledık
-
-3.versıyonda sunu ekledık
+V1 ŞU
+V2 ŞU
 
 
 ## 👥 Takım Üyeleri
