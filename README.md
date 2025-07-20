@@ -52,16 +52,16 @@ Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ula
 
 | Dosya Adı      | Açıklaması         |
 |----------:     |------------        |
-|requirements.txt        | Kullandığımız ve gerekli kütüphaneler ile veri seti bağlantısını içeren dosya          |
+|requirements.txt        | Kullandığımız ve gerekli kütüphaneler ile veri seti bağlantısını içeren dosya.         |
 | sunum.pdf                 |Takım sunumumuz      |
-|KODMEDv1                    |ilk  surum        |
-|KODMEDv4                    |en son surum        |
+|KOD-MEDv1                    |Projemizin ilk sürümünün yazılım kodları bu klasörde bulunuyor.        |
+|KOD-MEDv2                    |Projemizin 2. sürümünün yazılım kodları bu klasörde bulunuyor.  |
 
 
 
 ## 🚀 Sürümler ve Yenilikler
-KODMEDv1 de şunlar eklendi
-KODMEDv2 de bunlar eklendi
+**KODMEDv1 sürümünde şunlar eklendi;**  
+
 
 
 ## 👥 Takım Üyeleri
