@@ -1,7 +1,7 @@
 
 # 🏛️ KOD-MED
 
-<img src="https://github.com/unique-medical-artificial-intelligence/UMAI-TAKIMI-KOD-MED-PROJESI---TEKNOFEST-2025-DOGAL-DIL-ISLEME-YARISMASI-SERBEST-KATOGERI/blob/main/Logo.png" width="340">
+<img src="https://github.com/unique-medical-artificial-intelligence/UMAI-TAKIMI-KOD-MED-PROJESI---TEKNOFEST-2025-DOGAL-DIL-ISLEME-YARISMASI-SERBEST-KATOGERI/blob/main/TAKIM-BİLGİLERİ/Logo.png" width="340">
 
 **Bu çalışma, Teknofest 2025 Türkçe Doğal Dil İşleme yarışması "Serbest" kategori yarışması için geliştirilmiştir.**
 
