@@ -26,7 +26,7 @@ KOD-MED, sağlık sektöründeki teşhis ve raporlama süreçlerinin verimini ar
 
 ## 🪢Gereklilikler
 
-**Çalışmalarımızın hepsi Google Colab ortamında yapılmıştır.** Projenin çalıştırılması için gerekli tüm bağlılıkların listesini [requirements.txt](https://github.com/unique-medical-artificial-intelligence/UMAI-TAKIMI-KOD-MED-PROJESI---TEKNOFEST-2025-DOGAL-DIL-ISLEME-YARISMASI-SERBEST-KATOGERI/blob/main/requirements.txt) sayfasında bulabilirsiniz. Veri Seti bağlantısı aşağıda olucaktır.
+Projenin çalıştırılması için gerekli tüm bağlılıkların listesini [requirements.txt](https://github.com/unique-medical-artificial-intelligence/UMAI-TAKIMI-KOD-MED-PROJESI---TEKNOFEST-2025-DOGAL-DIL-ISLEME-YARISMASI-SERBEST-KATOGERI/blob/main/requirements.txt) sayfasında bulabilirsiniz. Veri Seti bağlantısı aşağıda olucaktır.
 Gerekli kütüphaneleri kurmak için aşağıdaki kodu çalıştırabilirsiniz.
 
 ```bash
@@ -45,7 +45,7 @@ import transformers[torch]
 
 
 ### 💭Veri Seti Bağlantısı
-Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ulaşabilirsiniz.
+Veri setimize buradaki [linkten](https://www.kaggle.com/datasets/umaikou/teknofest-2025-kod-med-traning-databese) ulaşabilirsiniz.
 
 
 ## 📁 Dosya Açıklamaları
