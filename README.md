@@ -1,7 +1,7 @@
 
 # 🏛️ KOD-MED
 
-<img src="!https://github.com/user-attachments/assets/f6bf2fe2-425e-467d-8573-962eedc9cb27" width="340">
+<img src="https://github.com/user-attachments/assets/f6bf2fe2-425e-467d-8573-962eedc9cb27" width="340">
 
 **Bu çalışma, Teknofest 2025 Türkçe Doğal Dil İşleme yarışması "Serbest" kategori yarışması için geliştirilmiştir.**
 
